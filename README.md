@@ -1,12 +1,16 @@
 # Hi, I'm David 👋
 
+Final Year Computer Science & Statistics student passionate about Data Engineering, Analytics, and building scalable systems.
+
+![](https://komarev.com/ghpvc/?username=DayDay0308&color=blueviolet&style=flat-square)
+
 <br/>
 
-## 🚀 Roles
+## 🚀 What I Do
 
-- 🎓 BSc Computer Science & Statistics Student
-- ⚙️ Data Engineer
-- 💻 Software Engineer
+- 🎓 Final Year BSc Computer Science & Statistics Student
+- ⚙️ Aspiring Data Engineer
+- 💻 Software Engineering Enthusiast
 - 📊 Analytics Engineer
 - 📈 Financial Markets Enthusiast
 
@@ -34,12 +38,14 @@
   <img src="https://skillicons.dev/icons?i=gcp,aws,postgresql" />
 </p>
 
-### BI & Tools
+### BI & Developer Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
-**Also:** SQL · SAS · Apache Spark · Apache Airflow · dbt · Kestra · BigQuery · Snowflake · Pandas · Power BI · Tableau · Excel
+### Additional Technologies
+
+`SQL` • `Apache Spark` • `Apache Airflow` • `dbt` • `Kestra` • `BigQuery` • `Snowflake` • `Pandas` • `Power BI` • `Tableau` • `Excel` • `SAS`
 
 <br/>
 
@@ -57,24 +63,49 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayDay0308&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayDay0308&theme=tokyo-night&hide_border=true" />
+</p>
+
 <br/>
 
 ## 🔗 Featured Projects
 
-- [📈 Stock Market Analytics Pipeline](https://github.com/DayDay0308/stock-market-analytics-pipeline) — End-to-end data pipeline for global stock market analytics across 6 exchanges using GCP, Terraform & BigQuery
-- [⚙️ Data Engineering Zoomcamp](https://github.com/DayDay0308/data-engineering-zoomcamp) — Learning journey through DataTalks Data Engineering Zoomcamp — concepts, notes & projects
-- [📱 DAYCAST](https://github.com/DayDay0308/DAYCAST) — Mirror and control your Android phone from any browser over WiFi
-- [🐳 Docker Workshop](https://github.com/DayDay0308/docker-workshop) — Docker workshop codespaces & containerisation practice
+### 📈 Stock Market Analytics Pipeline
+End-to-end data pipeline for global stock market analytics across 6 exchanges using GCP, Terraform, BigQuery, and modern data engineering workflows.
+
+🔗 https://github.com/DayDay0308/stock-market-analytics-pipeline
 
 <br/>
 
-## 📚 Currently Learning
+### ⚙️ Data Engineering Zoomcamp
+Learning journey through DataTalks Data Engineering Zoomcamp — projects, concepts, orchestration, warehousing, and best practices.
+
+🔗 https://github.com/DayDay0308/data-engineering-zoomcamp
+
+<br/>
+
+### 📱 DAYCAST
+Mirror and control your Android phone directly from any browser over WiFi.
+
+🔗 https://github.com/DayDay0308/DAYCAST
+
+<br/>
+
+### 🐳 Docker Workshop
+Containerisation practice, Docker workflows, and development environment setup using Docker and Codespaces.
+
+🔗 https://github.com/DayDay0308/docker-workshop
+
+<br/>
+
+## 📚 Currently Exploring
 
 - Data Engineering & Pipeline Architecture
 - Machine Learning & Predictive Modelling
-- Cloud Technologies (AWS, Azure)
+- Cloud Technologies (AWS & GCP)
 - Financial Analytics & Quantitative Methods
-- AI & Large Language Models (LLMs)
+- Artificial Intelligence & Large Language Models (LLMs)
 
 <br/>
 
@@ -82,27 +113,36 @@
 
 - 🥇 Golden Key International Honour Society Member
 - 📜 Data Engineering Certificate — DataTalks.Club
-- 🎓 Final Year BSc Computer Science & Statistics
+- 🎓 Final Year BSc Computer Science & Statistics Student
 
 <br/>
 
 ## 🎮 About Me
 
-- 📍 South Africa
-- 📈 Trading financial markets since 2017 — stocks, forex, and everything in between
+- 📍 Based in South Africa
+- 📈 Interested in financial markets, trading, and analytics
 - ♟️ Chess player — always thinking three moves ahead
 - 📚 Avid reader — books are just offline documentation
-- 🎯 Passionate about turning raw data into real decisions
+- 🎯 Passionate about turning raw data into meaningful decisions
 
 <br/>
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ramokgola-048807131/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DayDay0308)
+<p>
+  <a href="https://www.linkedin.com/in/david-ramokgola-048807131/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DayDay0308">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
 ---
 
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+<p align="center">
+  <i>"Turning data into decisions."</i>
+</p>
