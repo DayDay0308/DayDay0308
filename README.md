@@ -1,8 +1,8 @@
 <div align="center">
 
-# David Ramokgola
+# David 
 
-### Data Engineer • Software Engineer • Analytics Engineer
+### Data Engineer • Software Engineer • Cloud & Analytics
 
 Building scalable data systems, cloud infrastructure, analytics platforms, and modern software solutions.
 
@@ -18,6 +18,20 @@ Building scalable data systems, cloud infrastructure, analytics platforms, and m
   </a>
 </p>
 
+<p>
+  <a href="mailto:daviddayrams@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/david-ramokgola-048807131/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DayDay0308">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
@@ -27,11 +41,10 @@ Building scalable data systems, cloud infrastructure, analytics platforms, and m
 - ⚙️ Building scalable data pipelines & cloud-native systems
 - 📊 Passionate about analytics engineering and data-driven decision making
 - ☁️ Working with AWS, GCP, orchestration tools, and distributed systems
-- 📈 Trader since 2017 — applying quantitative thinking to financial markets
-- ♟️ Chess player with a systems-thinking mindset
-- 📚 Continuous learner — always reading, always building
-- 🌍 Open to **remote opportunities** in Data Engineering, Analytics Engineering & Software Engineering
-- 🚀 Focused on building production-grade, portfolio-ready solutions
+- 📈 Applying quantitative thinking and analytics to financial markets since 2017
+- 📚 Focused on continuous improvement, system design, and scalable engineering
+- 🌍 Open to opportunities in Data Engineering, Analytics Engineering & Software Engineering
+- 🚀 Focused on building production-grade and scalable engineering solutions
 
 ---
 
@@ -70,6 +83,7 @@ Building scalable data systems, cloud infrastructure, analytics platforms, and m
 ## 📌 Featured Projects
 
 ### 📈 Stock Market Analytics Pipeline
+
 Scalable cloud-based analytics pipeline processing global market data across multiple exchanges using GCP, Terraform, BigQuery, and modern orchestration workflows.
 
 🔗 https://github.com/DayDay0308/stock-market-analytics-pipeline
@@ -77,6 +91,7 @@ Scalable cloud-based analytics pipeline processing global market data across mul
 <br/>
 
 ### ⚙️ Modern Data Engineering Workflows
+
 Data engineering projects covering orchestration, warehousing, streaming, transformations, and scalable pipeline architectures.
 
 🔗 https://github.com/DayDay0308/data-engineering-zoomcamp
@@ -84,6 +99,7 @@ Data engineering projects covering orchestration, warehousing, streaming, transf
 <br/>
 
 ### 📱 DAYCAST
+
 Browser-based Android device mirroring and remote control solution over WiFi.
 
 🔗 https://github.com/DayDay0308/DAYCAST
@@ -91,6 +107,7 @@ Browser-based Android device mirroring and remote control solution over WiFi.
 <br/>
 
 ### 🐳 Docker & Containerisation
+
 Containerisation workflows, development environments, and infrastructure automation using Docker and cloud-native tooling.
 
 🔗 https://github.com/DayDay0308/docker-workshop
@@ -143,15 +160,11 @@ Containerisation workflows, development environments, and infrastructure automat
 
 ## 🌐 Connect With Me
 
-> 💼 **Available for remote roles** — Data Engineer • Analytics Engineer • Software Engineer
+> 💼 Available for roles — Data Engineer • Analytics Engineer • Software Engineer
 
 <p>
-  <a href="https://www.linkedin.com/in/david-ramokgola-048807131/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/DayDay0308">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:daviddayrams@gmail.com">
+    <img src="https://img.shields.io/badge/Email-daviddayrams%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
