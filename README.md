@@ -2,7 +2,7 @@ Hi, I'm David 👋
 <br/>
 🚀 Roles
 
-🎓 BSc Computer Science & Statistics Student
+🎓 Final Year BSc Computer Science & Statistics Student
 ⚙️ Data Engineer
 💻 Software Engineer
 📊 Analytics Engineer
@@ -48,11 +48,12 @@ Show Image
 <br/>
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DayDay0308&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DayDay0308&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DayDay0308&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayDay0308&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <br/>
@@ -77,7 +78,7 @@ AI & Large Language Models (LLMs)
 
 🥇 Golden Key International Honour Society Member
 📜 Data Engineering Certificate — DataTalks.Club
-🎓 BSc Computer Science & Statistics
+🎓 Final Year BSc Computer Science & Statistics
 
 <br/>
 🎮 About Me
