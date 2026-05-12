@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-Final Year Computer Science & Statistics student passionate about Data Engineering, Analytics, and building scalable systems.
+BSc Computer Science & Statistics student passionate about Data Engineering, Analytics, and building scalable systems.
 
 ![](https://komarev.com/ghpvc/?username=DayDay0308&color=blueviolet&style=flat-square)
 
@@ -8,8 +8,8 @@ Final Year Computer Science & Statistics student passionate about Data Engineeri
 
 ## 🚀 What I Do
 
-- 🎓 Final Year BSc Computer Science & Statistics Student
-- ⚙️ Aspiring Data Engineer
+- 🎓 BSc Computer Science & Statistics Student
+- ⚙️ Data Engineer
 - 💻 Software Engineering Enthusiast
 - 📊 Analytics Engineer
 - 📈 Financial Markets Enthusiast
@@ -92,10 +92,6 @@ Mirror and control your Android phone directly from any browser over WiFi.
 
 <br/>
 
-### 🐳 Docker Workshop
-Containerisation practice, Docker workflows, and development environment setup using Docker and Codespaces.
-
-🔗 https://github.com/DayDay0308/docker-workshop
 
 <br/>
 
