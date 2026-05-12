@@ -1,129 +1,149 @@
-# Hi, I'm David 👋
+<div align="center">
 
-BSc Computer Science & Statistics student passionate about Data Engineering, Analytics, and building scalable systems.
+# David Ramokgola
 
-![](https://komarev.com/ghpvc/?username=DayDay0308&color=blueviolet&style=flat-square)
+### Data Engineer • Software Engineer • Analytics Engineer
 
-<br/>
-
-## 🚀 What I Do
-
-- 🎓 BSc Computer Science & Statistics Student
-- ⚙️ Data Engineer
-- 💻 Software Engineering Enthusiast
-- 📊 Analytics Engineer
-- 📈 Financial Markets Enthusiast
+Building scalable data systems, cloud infrastructure, analytics platforms, and modern software solutions.
 
 <br/>
 
-## 🛠️ Skills & Tools
+<p>
+  <a href="https://github.com/DayDay0308">
+    <img src="https://komarev.com/ghpvc/?username=DayDay0308&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+
+  <a href="https://github.com/DayDay0308?tab=followers">
+    <img src="https://img.shields.io/github/followers/DayDay0308?label=Followers&style=flat&color=0e75b6" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## ⚡ About Me
+
+- ⚙️ Building scalable data pipelines & cloud-native systems
+- 📊 Passionate about analytics engineering and data-driven decision making
+- ☁️ Working with AWS, GCP, orchestration tools, and distributed systems
+- 📈 Trader since 2017 — applying quantitative thinking to financial markets
+- ♟️ Chess player with a systems-thinking mindset
+- 📚 Continuous learner — always reading, always building
+- 🌍 Open to **remote opportunities** in Data Engineering, Analytics Engineering & Software Engineering
+- 🚀 Focused on building production-grade, portfolio-ready solutions
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,bash" />
 </p>
 
-### Web & Frameworks
+### Backend & Web
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,react" />
 </p>
 
-### Data Engineering & DevOps
+### Data Engineering & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,terraform,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=kafka,docker,terraform,linux,git" />
 </p>
 
 ### Cloud & Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,postgresql" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,postgresql" />
 </p>
 
-### BI & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
+### Data & Analytics
 
-### Additional Technologies
+`SQL` • `Apache Spark` • `Apache Airflow` • `dbt` • `BigQuery` • `Snowflake` • `Kestra` • `Pandas` • `Power BI` • `Tableau` • `Excel` • `SAS`
 
-`SQL` • `Apache Spark` • `Apache Airflow` • `dbt` • `Kestra` • `BigQuery` • `Snowflake` • `Pandas` • `Power BI` • `Tableau` • `Excel` • `SAS`
+---
 
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DayDay0308&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DayDay0308&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayDay0308&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayDay0308&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br/>
-
-## 🔗 Featured Projects
+## 📌 Featured Projects
 
 ### 📈 Stock Market Analytics Pipeline
-End-to-end data pipeline for global stock market analytics across 6 exchanges using GCP, Terraform, BigQuery, and modern data engineering workflows.
+Scalable cloud-based analytics pipeline processing global market data across multiple exchanges using GCP, Terraform, BigQuery, and modern orchestration workflows.
 
 🔗 https://github.com/DayDay0308/stock-market-analytics-pipeline
 
 <br/>
 
-### ⚙️ Data Engineering Zoomcamp
-Learning journey through DataTalks Data Engineering Zoomcamp — projects, concepts, orchestration, warehousing, and best practices.
+### ⚙️ Modern Data Engineering Workflows
+Data engineering projects covering orchestration, warehousing, streaming, transformations, and scalable pipeline architectures.
 
 🔗 https://github.com/DayDay0308/data-engineering-zoomcamp
 
 <br/>
 
 ### 📱 DAYCAST
-Mirror and control your Android phone directly from any browser over WiFi.
+Browser-based Android device mirroring and remote control solution over WiFi.
 
 🔗 https://github.com/DayDay0308/DAYCAST
 
 <br/>
 
+### 🐳 Docker & Containerisation
+Containerisation workflows, development environments, and infrastructure automation using Docker and cloud-native tooling.
 
-<br/>
+🔗 https://github.com/DayDay0308/docker-workshop
 
-## 📚 Currently Exploring
+---
 
-- Data Engineering & Pipeline Architecture
-- Machine Learning & Predictive Modelling
-- Cloud Technologies (AWS & GCP)
-- Financial Analytics & Quantitative Methods
-- Artificial Intelligence & Large Language Models (LLMs)
+## 📊 GitHub Analytics
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DayDay0308&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
-## 🏆 Achievements
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DayDay0308&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🥇 Golden Key International Honour Society Member
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayDay0308&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayDay0308&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DayDay0308&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Scalable Data Engineering Systems
+- Distributed Data Processing
+- Cloud Infrastructure & Automation
+- Analytics Engineering
+- AI & LLM Applications
+- Financial Analytics Platforms
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 Golden Key International Honour Society
 - 📜 Data Engineering Certificate — DataTalks.Club
-- 🎓 Final Year BSc Computer Science & Statistics Student
+- ☁️ Building cloud-native data engineering solutions
+- 🚀 Open-source & portfolio-driven development
 
-<br/>
-
-## 🎮 About Me
-
-- 📍 Based in South Africa
-- 📈 Interested in financial markets, trading, and analytics
-- ♟️ Chess player — always thinking three moves ahead
-- 📚 Avid reader — books are just offline documentation
-- 🎯 Passionate about turning raw data into meaningful decisions
-
-<br/>
+---
 
 ## 🌐 Connect With Me
+
+> 💼 **Available for remote roles** — Data Engineer • Analytics Engineer • Software Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/david-ramokgola-048807131/">
@@ -135,10 +155,10 @@ Mirror and control your Android phone directly from any browser over WiFi.
   </a>
 </p>
 
-<br/>
-
 ---
 
-<p align="center">
-  <i>"Turning data into decisions."</i>
-</p>
+<div align="center">
+
+### "Turning data into scalable decisions."
+
+</div>
