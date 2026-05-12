@@ -1,6 +1,6 @@
 <div align="center">
 
-# I am David 
+# David Ramokgola
 
 ### Data Engineer • Software Engineer • Cloud & Analytics
 
