@@ -9,16 +9,6 @@ Building scalable data systems, cloud infrastructure, analytics platforms, and m
 <br/>
 
 <p>
-  <a href="https://github.com/DayDay0308">
-    <img src="https://komarev.com/ghpvc/?username=DayDay0308&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-
-  <a href="https://github.com/DayDay0308?tab=followers">
-    <img src="https://img.shields.io/github/followers/DayDay0308?label=Followers&style=flat&color=0e75b6" />
-  </a>
-</p>
-
-<p>
   <a href="mailto:daviddayrams@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
